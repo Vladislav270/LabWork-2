@@ -23,4 +23,4 @@
 
 ## Тестирование задания №1
 
-![Alt-текст](https://github.com/Vladislav270/LabWork-2 "11")
+![Alt-текст](11.png)
